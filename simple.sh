@@ -1,2 +1,2 @@
 #!/bin/bash
-hostname
+hostname v1
