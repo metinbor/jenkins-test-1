@@ -1,2 +1,2 @@
 #!/bin/bash
-hostname v1
+echo "this is simple page"
